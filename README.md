@@ -26,9 +26,17 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/vaibhav834/licious-vaibhav/assets/31993035/5874fd91-72d1-4b88-9d96-6e3b67422c41)
 
 It is an intuitive mobile application that allows users to explore a vast collection of books available on the Open Library platform. Leveraging the Open Library API, this app provides a seamless and user-friendly experience for discovering, searching, and learning more about books.
+
+## Key Features
+
+- **Book Discovery:** Easily browse and explore a diverse range of books from the Open Library collection.
+- **Search Functionality:** Effortlessly search for books by title.
+- **Detailed Book Information:** Access comprehensive details for each book, including title, author(s), cover image, genre, publication year, and a brief description.
+- **Infinite Scrolling:** Dynamically load additional books as the user scrolls, ensuring a continuous and engaging exploration experience.
+- **Favorite Books:** Save your favorite books to a personal list for future reference, with the ability to add and remove books as needed.
+- **User Interaction:** Interact with books by liking them, adding reviews, and enjoying smooth transitions and animations for an enhanced user experience.
 
 ## Built With
 
