@@ -55,7 +55,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-https://github.com/vaibhav834/licious-vaibhav.git
+git clone https://github.com/vaibhav834/licious-vaibhav.git
 ```
 2. cd licious-vaibhav
 
